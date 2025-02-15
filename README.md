@@ -1,6 +1,6 @@
-# -Credit-Card-Fraud-Detection-Using-Machine-Learning
+# Credit-Card-Fraud-Detection-Using-Machine-Learning
 ## Authors:  Tasnia Nowshin Meem and Sadia Naznin Ananna
-## Course Instructor:Md Mynoddin, Assistant Professor, Department of CSE, RMSTU
+## Course Instructor : Md Mynoddin, Assistant Professor, Department of CSE, RMSTU
 
 # ABSTRACT
 
